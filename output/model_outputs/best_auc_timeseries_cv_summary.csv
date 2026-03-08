@@ -1,0 +1,2 @@
+ts_cv_folds,ts_cv_skipped_folds,ts_cv_auc_mean,ts_cv_auc_min,ts_cv_auc_max,ts_cv_auc_std,best_c,class_weight,penalty,l1_ratio
+5,0,0.5564283068903211,0.41769626769626766,0.6199924414210128,0.07151043667711439,0.05,"{0: 1, 1: 2}",elasticnet,0.2

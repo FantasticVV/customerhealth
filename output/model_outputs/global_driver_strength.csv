@@ -1,0 +1,9 @@
+base_feature,abs_coefficient
+tenure_z,0.0385267595831653
+tenure,0.038526759583165
+arr_amount_qoq_delta_z,0.0256041798291058
+days_to_contract_end_capped,0.0035133415063117
+seats_qoq_delta_z,0.0
+usage_count_qoq_delta_z,0.0
+tickets_opened_qoq_delta_z,0.0
+tenure_x_usage_drop_flag,0.0
